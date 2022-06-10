@@ -17,3 +17,13 @@ Aplicação feita em React Native que visa facilitar o gerenciamento dos aliment
 4. Digital no terminal ```npx react-native start```
 5. Em um novo terminal digitar ```npx react-native run-android```
 6. A tela do Simulador irá abrir 
+
+
+  ## Desenvolvedores 👨‍💻🟣
+
+- Gabriel Meireles			            
+- Gustavo dos Santos de Melo		    
+- Marcus Vinicius Titanero Guelfi		
+- Henrique Akira Yasuda			        
+- Kelly Naomi Mitsuishi			        
+- Vinicius De Nani Mazinetti 		
